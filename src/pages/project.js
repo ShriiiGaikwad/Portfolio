@@ -49,8 +49,8 @@ export default function Projects() {
 
 const projects = [
   {
-    title: "Online Judge",
-    details: "An Online Judge platform whose primary goal was to host a coding contest and calculate real-time rankings on the basis of submissions made by the contestants. We have used ReactJS, and Redux to develop the client project. For the client-side we have used NodeJS, ExpressJS for API development, MongoDB as a database, Redis-Bull to maintain queue, docker for containerization of project, and Judge0 as code execution engine.",
+    title: "Secuscan",
+    details: "A GitHub vulnerability scanner that automates security analysis using a RESTful API, ensuring safer and more secure repositories",
     img: OJ,
     links: [
       {
@@ -70,8 +70,8 @@ const projects = [
     ]
   },
   {
-    title: 'Xenia Website',
-    details: "Built a website from scratch for PCSB's annual event Xenia.",
+    title: 'Sign Language to Text & Speech Translator',
+    details: "A real-time AI-powered system that converts sign language gestures into text and speech, enhancing accessibility for the hearing-impaired.",
     img: Xenia,
     links: [
       {
@@ -87,9 +87,9 @@ const projects = [
     ],
   },
   {
-    title: 'Rebuild Hub',
+    title: 'Traffic Accident Detection',
     details:
-      'A web app that will bridge the gap between waste donors and waste collectors and will have a huge positive impact on collection of recyclable waste.',
+      'An AI-driven traffic monitoring system that detects accidents in real time and sends automated alerts to emergency responders.',
     img: RebuildHub,
     links: [
       {
@@ -109,9 +109,9 @@ const projects = [
     ],
   },
   {
-    title: 'The Editorial',
+    title: 'AthleteVerse',
     img: Editorial,
-    details: "PICT Debsoc's Editorial website.",
+    details: "A content-sharing platform for athletes, featuring AI-powered Q&A, blog sentiment analysis, and automated content tagging to boost user engagement.",
     links: [
       {
         icon: (

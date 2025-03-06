@@ -60,10 +60,34 @@ export default function Experience() {
 
 const experiences = [
   {
+    position: 'Machine Learning, Python, openCV, Keras, MediaPipe',
+    company: 'Sign Language to Text & Speech Translator',
+    details: [
+      "Created a real-time sign language translation system using Keras, OpenCV, and MediaPipe, bridging the gap between the hearing-impaired and non-sign language users.",
+      "Integrated a deep learning-based translator supporting 5 languages, making it accessible to a diverse global audience, Translates hand gestures into both text and speech, enhancing communication accessibility."
+    ],
+    //date: 'February 2024 - March 2024',
+    img: CP1,
+    companyUrl: "https://github.com/ShriiiGaikwad/Pipeline"
+
+  },
+  {
+    position: 'Machine Learning, Python, openCV, YOLO',
+    company: 'Traffic Accident Detection – Nvidia & Dell Hackathon',
+    details: [
+      "Developed an AI-powered traffic analysis system using OpenCV and YOLO models to detect road accidents and track parking availability in real-time.",
+      "Implemented an automated alert system that sends email and SMS notifications to nearby hospitals and police stations for faster emergency response."
+    ],
+    //date: 'February 2024 - March 2024',
+    img: CP1,
+    companyUrl: "https://github.com/ShriiiGaikwad/Pipeline"
+
+  },
+  {
     position: 'HTML, CSS, JavaScript, Python, openAI',
     company: 'ATHLETEVERSE - Cerebral Hackathon',
     details: [
-      "Led a team to develop 'AthleteVerse,' a platform for enhancing fan-athlete interaction through storytelling and AI-powered engagements, showcased at the Cerebral Hacks hackathon. Utilized HTML, CSS, JavaScript, and Flask, integrating OpenAI's GPT-3.5 to deliver contextual Q\&A responses, enhancing user experience and engagement.",
+      "Built AthleteVerse, a content-sharing platform for athletes where users engage through AI-powered Q&A, blog articles, and automated sentiment analysis and leveraged OpenAI`s GPT-3.5 for Q&A interactions and Hugging Face NLP models for sentiment tagging, enhancing user engagement",
       "Collaborated with industry experts and corporate sponsors, including Twelve Labs and Google, to refine product features and user interface."
     ],
     //date: 'February 2024 - March 2024',

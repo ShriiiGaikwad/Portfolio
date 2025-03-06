@@ -13,17 +13,19 @@ export default function About() {
 
       <div className="md:flex items-center space-y-6 md:space-y-0">
         <div className="md:order-last basis-1/3 h-full">
-          <img src={ProfilePic1} className="rounded-full h-52 w-40 mx-auto" alt=""></img>
+          <img src={ProfilePic1} className="rounded-full h-52 w-52 mx-auto" alt=""></img>
         </div>
         <div className="basis-2/3 space-y-4">
           <span className="text-black-500 text-xl font-bold">Hi, I am </span>
-          <div className="text-cyan-500 text-4xl font-bold">Srigandhrav Gaikwad</div>
-          <div className="text-xl text-black-500 font-bold">Analytics Graduate Student & Software Engineer</div>
+          <div className="text-cyan-500 text-4xl font-bold">Shri</div>
+          <div className="text-xl text-black-500 font-bold">Graduate Student & Software Engineer</div>
           <div className="text-l text-black-500 font-bold">
             
           </div>
           <div className="font-light text-black-400">
-          I am a passionate graduate student pursing Masters in Analytics at the University of Southern California. I will be graduating in May 2025. I am deeply interested in Software Development, DevOps, Cloud. I am actively looking for internship opportunities for Fall 2024. I have previous experience of working as a QA Engineer at eQ Technologic Pvt Ltd., Software Developer Intern at ABS Certifications Pvt. Ltd. , Data Engineer at openHouse.
+          I am a Software Development Engineer passionate about solving real-world problems through scalable applications, AI-driven automation, and cloud infrastructure. With expertise in Python, C++, Go, and SQL, I build high-performance backend systems, optimize CI/CD pipelines using AWS, Google Cloud, and Docker, and implement ML solutions like recommendation engines and computer vision automation. Currently at a stealth startup, I focus on driving innovation, ensuring data integrity, and leveraging AI to create impactful solutions.
+
+          Breaking production so you don`t have to—just kidding, I fix things before they break!
           </div>
         </div>
       </div>
@@ -44,7 +46,7 @@ export default function About() {
         </div>
         <a
           className="p-2 cursor-pointer rounded-lg relative px-10 w-max flex items-center m-auto space-x-4 border bg-slate-200"
-          href={'https://drive.google.com/file/d/1_u46MlhJlGw7n3wHeU9H7vZaJlX2zAQB/view?usp=sharing'}
+          href={'https://drive.google.com/file/d/1fbTVpmZh_klB91ffGSBkUmfjFrqTDuLA/view?usp=sharing'}
           target={'_blanck'}
           rel="noreferrer"
         >

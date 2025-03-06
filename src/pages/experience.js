@@ -1,9 +1,9 @@
 import React from 'react';
 import CP1 from '../assets/eq_technologic.jpg';
-// import CP2 from '../assets/AlgoAnalytics.png';
+import CP2 from '../assets/usc.png';
 import CP3 from '../assets/openHouse.png';
 import CP4 from '../assets/ABS.png';
-import CP5 from '/Users/srigandhravgaikwad/Personal_Repo/SG_Portfolio/src/assets/stealth.jpg'
+import CP5 from '../assets/stealth.jpg'
 // import CP5 from '../assets/IDBI-Intech.jpg';
 // import CP6 from '../assets/BobbleAI.jpg';
 // import CP7 from '../assets/GrowMonks.png';
@@ -59,23 +59,35 @@ export default function Experience() {
 
 const experiences = [
   {
-    position: 'Software Development Engineer- Intern',
+    position: 'Software Development Engineer - Co-op',
     company: 'Stealth Startup',
     details: [
-      "Developed and deployed ML models to match customer orders with the most suitable vendors, leveraging deep learning for real-time predictions of vendor acceptance and total cost estimation, resulting in a 25% faster vendor confirmation rate and a 20% reduction in order processing time",
-      "Integrated linear programming and nonlinear optimization into vendor selection workflows, reducing mismatches by 30% and improving overall order success rates.",
-      "Implemented relational databases (e.g., MySQL/PostgreSQL) for transaction data storage, optimizing queries and reducing ETL process times by 15%"
+      "Designed and implemented internal transaction management in AWS Redshift, ensuring atomicity and consistency of data during ETL workflows. Optimized concurrency control mechanisms to prevent query conflicts, reduce deadlocks, and improve transactional integrity, leading to enhanced data reliability and faster query execution in a high-volume data processing environment.",
+      "Machine Learning Deployment on AWS: Engineered and deployed machine learning models using NearestNeighbour on AWS SageMaker to efficiently match customer orders with the most suitable vendors, streamlining operations and improving customer satisfaction.",
+      "Designed and implemented a fully automated CI/CD pipeline using GitHub Actions for seamless ML model deployment. The pipeline integrated automated testing, model versioning, and deployment with AWS services like SageMaker, Lambda, and ECR, significantly reducing deployment time and ensuring high reliability. This solution streamlined model training, validation, and deployment, enabling faster iterations and improved performance in production environments."
     ],
     date: 'May 2024 - Present',
     img: CP5,
     //companyUrl: 'https://www.algoanalytics.com/'
   },
   {
-    position: 'Quality Assurance Engineer',
+    position: 'Data Automation & Analysis - Part Time',
+    company: 'Auxiliary Services, University of Southern California',
+    details: [
+      "Developed scalable Python-based solutions to automate data workflows, reducing manual effort by 1 hour per day and enhancing operational efficiency.",
+      "Worked closely with the Senior Director to plan student meal programs, analyze daily sales reports, and optimize food service operations, balancing these responsibilities alongside a 20-hour weekly part-time role."
+    ],
+    date: 'January 2024 - December 2024',
+    img: CP2,
+    companyUrl: 'https://www.algoanalytics.com/'
+  },
+  {
+    position: 'Software Development Engineer in Test',
     company: 'eQ Technologic Pvt. Ltd.',
     details: [
-      "Conducted comprehensive regression testing on new features and updates, ensuring zero negative impact on existing functionalities; reduced post-release bugs by 40% and improved overall product stability",
-      "Incorporated Redmine productively to pinpoint and document software defects, collaborating across teams and contributing to a 40% reduction in bugs, coupled with a 20% enhancement in process efficiency"
+      "Developed a scalable test automation framework using Selenium, TestNG, and Python, improving test efficiency and execution speed while ensuring seamless functionality across platforms.",
+      "Conducted in-depth manual testing throughout the SDLC, identifying critical edge cases and ensuring robust software performance across diverse environments.",
+      "Utilized Redmine for efficient bug tracking, documentation, and team collaboration, leading to a 40% reduction in recurring defects and enhanced software reliability."
     ],
     date: 'August 2022 - June 2023',
     img: CP1,
@@ -93,13 +105,13 @@ const experiences = [
     companyUrl: 'https://www.algoanalytics.com/'
   },*/
     {
-    position: 'Software Development Engineer - Intern',
+    position: 'Project Manager - Internship',
     company: 'ABS Certifications (TUV AUSTRIA Partner)',
     details: [
-     "Worked on end-to-end development and deployment of an object detection model, encompassing data cleaning, annotation, model training, and hyper-parameter tuning to achieve optimal performance on a dataset of 10,000 images",
-     "Developed a YOLO v5 model to track individual chickens and analyze their feeding behaviors, undertaking testing and optimization to ensure high accuracy and reliable results in improving health conditions of livestock" 
+     "Developed and executed strategic business plans and targeted marketing campaigns, successfully driving client acquisition and leading to the onboarding of 150+ new clients in the manufacturing sector.",
+     "Applied data analytics and market insights to optimize resource allocation, enhance operational efficiency, and improve project execution." 
     ],
-    date: 'September 2021 - July 2022',
+    date: 'September 2021 - May 2022',
     img: CP4,
     companyUrl: "https://en.tuv.at/"
   },
@@ -132,7 +144,7 @@ const experiences = [
 
   },*/
   {
-    position: 'Engineering Intern',
+    position: 'Software Development Engineer - Internship',
     company: 'openHouse',
     details: [
       "Collaborated with a multidisciplinary team to develop 70% of a feature-rich online education platform catering to teachers and students, leveraging a diverse technology stack",

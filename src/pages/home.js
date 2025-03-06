@@ -11,7 +11,7 @@ export default function Home() {
             <span className=" font-semibold">Srigandhrav</span> <span className="font-semibold">Gaikwad</span>
           </div>
           <div className=" flex flex-col md:flex-row space-x-4 text-lg md:text-2xl justify-center items-center">
-            <div className=" text-cyan-400 font-bold">Analytics Graduate Student</div>
+            <div className=" text-cyan-400 font-bold">Graduate Student</div>
             <div className="flex space-x-4 items-center">
               <div className=" text-gray-300 font-extralight">at the University of Southern California</div>
               <div className="h-8 md:h-10 w-10 relative">
