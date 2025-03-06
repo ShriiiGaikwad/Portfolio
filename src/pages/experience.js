@@ -79,7 +79,7 @@ const experiences = [
     ],
     date: 'January 2024 - December 2024',
     img: CP2,
-    companyUrl: 'https://www.algoanalytics.com/'
+    companyUrl: 'https://aux.usc.edu/'
   },
   {
     position: 'Software Development Engineer in Test',
@@ -105,11 +105,12 @@ const experiences = [
     companyUrl: 'https://www.algoanalytics.com/'
   },*/
     {
-    position: 'Project Manager - Internship',
+    position: 'Software Developer - Internship',
     company: 'ABS Certifications (TUV AUSTRIA Partner)',
     details: [
-     "Developed and executed strategic business plans and targeted marketing campaigns, successfully driving client acquisition and leading to the onboarding of 150+ new clients in the manufacturing sector.",
-     "Applied data analytics and market insights to optimize resource allocation, enhance operational efficiency, and improve project execution." 
+     "Designed and implemented audit data tracking, ensuring comprehensive logging of user actions for compliance and security monitoring.",
+     "Gained hands-on experience in backend development and security integration, enhancing expertise in secure API development, authentication, and authorization.",
+     "mproved user access by 30% through optimized authentication and authorization mechanisms, reducing login latency and enhancing session management."
     ],
     date: 'September 2021 - May 2022',
     img: CP4,

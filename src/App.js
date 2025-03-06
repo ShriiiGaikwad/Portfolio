@@ -9,7 +9,7 @@ import About from './pages/about';
 import Experience from './pages/experience';
 import Extracurriculars from './pages/extracurriculars';
 import Home from './pages/home';
-import Projects from './pages/projects';
+import Education from './pages/education';
 import Project from './pages/project';
 import Resume from './pages/resume';
 import Skills from './pages/skills';
@@ -36,6 +36,8 @@ function App() {
       <Preloader></Preloader>
       <Navbar />
       <Home></Home>
+      <Education></Education>
+      {/* <Projects></Projects> */}
       <Experience></Experience>
       {/*<Projects></Projects>*/}
       <Project></Project>

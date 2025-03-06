@@ -22,10 +22,12 @@ export default function About() {
           <div className="text-l text-black-500 font-bold">
             
           </div>
+          <div className="font-bold italic text-black-400">
+          Breaking production so you don`t have to—just kidding, I fix things before they break!.</div>
           <div className="font-light text-black-400">
-          I am a Software Development Engineer passionate about solving real-world problems through scalable applications, AI-driven automation, and cloud infrastructure. With expertise in Python, C++, Go, and SQL, I build high-performance backend systems, optimize CI/CD pipelines using AWS, Google Cloud, and Docker, and implement ML solutions like recommendation engines and computer vision automation. Currently at a stealth startup, I focus on driving innovation, ensuring data integrity, and leveraging AI to create impactful solutions.
+          I am a Software Engineer passionate in solving real-world problems through scalable applications, AI-driven automation, and cloud infrastructure. With expertise in Python, C++, Go, and SQL, I build high-performance backend systems, optimize CI/CD pipelines using AWS, Google Cloud, and Docker, and implement ML solutions like recommendation engines and computer vision automation. Currently at a stealth startup, I focus on driving innovation, ensuring data integrity, and leveraging AI to create impactful solutions.
 
-          Breaking production so you don`t have to—just kidding, I fix things before they break!
+
           </div>
         </div>
       </div>
@@ -46,7 +48,7 @@ export default function About() {
         </div>
         <a
           className="p-2 cursor-pointer rounded-lg relative px-10 w-max flex items-center m-auto space-x-4 border bg-slate-200"
-          href={'https://drive.google.com/file/d/1fbTVpmZh_klB91ffGSBkUmfjFrqTDuLA/view?usp=sharing'}
+          href={'https://drive.google.com/file/d/1V_QB_Rwkw7v03yWCWr2CVVjlZip-JAPx/view?usp=sharing'}
           target={'_blanck'}
           rel="noreferrer"
         >

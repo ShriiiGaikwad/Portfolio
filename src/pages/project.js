@@ -1,9 +1,10 @@
 import React from 'react';
-import Xenia from '../assets/xenia.png';
-import Editorial from '../assets/editorial.png';
-import RebuildHub from '../assets/rebuild-hub.png';
-import Tradenza from '../assets/tradenza.png';
-import OJ from '../assets/oj.png';
+import signlang from '../assets/sign.png';
+import athlete from '../assets/athelete.png';
+import traf from '../assets/traf.png';
+import airq from '../assets/airq.jpg';
+import tableau from '../assets/tableau.png';
+import Secuscan from '../assets/secu.png';
 
 export default function Projects() {
   return (
@@ -51,38 +52,42 @@ const projects = [
   {
     title: "Secuscan",
     details: "A GitHub vulnerability scanner that automates security analysis using a RESTful API, ensuring safer and more secure repositories",
-    img: OJ,
+    img: Secuscan,
     links: [
       {
         icon: (
           <img
             alt=""
-            src="https://img.icons8.com/ios-filled/50/000000/link--v1.png"
+            //src="https://img.icons8.com/ios-filled/50/000000/link--v1.png"
             className="h-full"
           ></img>
         ),
-        link: "https://oj-client.vercel.app/"
+        //link: "https://oj-client.vercel.app/"
       },
       {
         icon: <i class="devicon-github-original"></i>,
-        link: "https://github.com/PCSB-Web-Team/online-judge-server",
+        link: "https://github.com/ShriiiGaikwad/Secuscan",
       },
     ]
   },
   {
     title: 'Sign Language to Text & Speech Translator',
     details: "A real-time AI-powered system that converts sign language gestures into text and speech, enhancing accessibility for the hearing-impaired.",
-    img: Xenia,
+    img: signlang,
     links: [
       {
         icon: (
           <img
             alt=""
-            src="https://img.icons8.com/ios-filled/50/000000/link--v1.png"
+            //src="https://img.icons8.com/ios-filled/50/000000/link--v1.png"
             className="h-full"
           ></img>
         ),
-        link: 'https://pcsbxenia.com/',
+        //link: 'https://pcsbxenia.com/',
+      },
+      {
+        icon: <i class="devicon-github-original"></i>,
+        link: "https://github.com/ShriiiGaikwad/SignLanguageLearn",
       },
     ],
   },
@@ -90,27 +95,27 @@ const projects = [
     title: 'Traffic Accident Detection',
     details:
       'An AI-driven traffic monitoring system that detects accidents in real time and sends automated alerts to emergency responders.',
-    img: RebuildHub,
+    img: traf,
     links: [
       {
         icon: (
           <img
             alt=""
-            src="https://img.icons8.com/ios-filled/50/000000/link--v1.png"
+            //src="https://img.icons8.com/ios-filled/50/000000/link--v1.png"
             className="h-full"
           ></img>
         ),
-        link: 'https://rebuild-hub.netlify.app/',
+        //link: 'https://rebuild-hub.netlify.app/',
       },
       {
         icon: <i class="devicon-github-original"></i>,
-        link: 'https://github.com/Rebuild-Hub/Rebuild-Hub-Client',
+        link: 'https://github.com/ShriiiGaikwad/NHack',
       },
     ],
   },
   {
     title: 'AthleteVerse',
-    img: Editorial,
+    img: athlete,
     details: "A content-sharing platform for athletes, featuring AI-powered Q&A, blog sentiment analysis, and automated content tagging to boost user engagement.",
     links: [
       {
@@ -121,18 +126,18 @@ const projects = [
             className="h-full"
           ></img>
         ),
-        link: 'https://pictdebsoc.github.io/the_editorial/issue.html',
+        link: 'https://verath.vercel.app/',
       },
       {
         icon: <i class="devicon-github-original"></i>,
-        link: 'https://github.com/pictdebsoc/the_editorial',
+        link: 'https://github.com/ShriiiGaikwad/CerebralHack',
       },
     ],
   },
   {
-    title: 'Tradenza',
-    details: 'An Attempt to create a platform that will host a trading contest. Still in progress.',
-    img: Tradenza,
+    title: 'Air Quality Monitoring System',
+    details: 'Developed a Smart Air Quality Monitoring System integrating IoT, cloud computing, and predictive analytics to track and improve air quality in real-time.',
+    img: airq,
     links: [
       {
         icon: (
@@ -142,8 +147,26 @@ const projects = [
             className="h-full"
           ></img>
         ),
-        link: 'https://60f5901158dfc928b3aef62c--tradenza.netlify.app/',
+        link: 'https://www.ijraset.com/research-paper/smart-air-quality-monitoring-system',
+      },
+    ],
+  },
+  {
+    title: 'Market Analysis for Strategic Decision',
+    details: 'An interactive Tableau dashboard suite that visualizes complex financial data, showcasing skills in data integration, data visualization, and dashboard development.',
+    img: tableau,
+    links: [
+      {
+        icon: (
+          <img
+            alt=""
+            src="https://img.icons8.com/ios-filled/50/000000/link--v1.png"
+            className="h-full"
+          ></img>
+        ),
+        link: 'https://public.tableau.com/app/profile/srigandhrav.gaikwad/viz/MarketAnalysisforStrategicDecision/Dashboard3',
       },
     ],
   },
 ];
+
