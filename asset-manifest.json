@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/SG_Portfolio/static/css/main.8dd7a852.css",
-    "main.js": "/SG_Portfolio/static/js/main.a11376a9.js",
-    "static/media/Sri.png": "/SG_Portfolio/static/media/Sri.3e7f840ceb0323c46729.png",
-    "static/media/MainPhoto.jpg": "/SG_Portfolio/static/media/MainPhoto.24d5dc552a0224212306.jpg",
-    "static/media/b.jpg": "/SG_Portfolio/static/media/b.05e432b11340eb96dc81.jpg",
-    "static/media/athelete.png": "/SG_Portfolio/static/media/athelete.6a8867559fbd234c7d05.png",
-    "static/media/tableau.png": "/SG_Portfolio/static/media/tableau.e2785306f33ad0ed14b5.png",
-    "static/media/sign.png": "/SG_Portfolio/static/media/sign.21f1fd89760fe772e5d2.png",
-    "static/media/traf.png": "/SG_Portfolio/static/media/traf.9fb96c84c5a742386162.png",
-    "static/media/usc.png": "/SG_Portfolio/static/media/usc.e439e4ee5794eb29dcb7.png",
-    "static/media/airq.jpg": "/SG_Portfolio/static/media/airq.239d192adfd71c308a9d.jpg",
-    "static/media/secu.png": "/SG_Portfolio/static/media/secu.f84a05f1c9eb4de6abac.png",
-    "index.html": "/SG_Portfolio/index.html",
-    "main.8dd7a852.css.map": "/SG_Portfolio/static/css/main.8dd7a852.css.map",
-    "main.a11376a9.js.map": "/SG_Portfolio/static/js/main.a11376a9.js.map"
+    "main.css": "/Portfolio/static/css/main.d89a2071.css",
+    "main.js": "/Portfolio/static/js/main.34413d13.js",
+    "static/media/Sri.png": "/Portfolio/static/media/Sri.3e7f840ceb0323c46729.png",
+    "static/media/MainPhoto.jpg": "/Portfolio/static/media/MainPhoto.24d5dc552a0224212306.jpg",
+    "static/media/b.jpg": "/Portfolio/static/media/b.05e432b11340eb96dc81.jpg",
+    "static/media/athelete.png": "/Portfolio/static/media/athelete.6a8867559fbd234c7d05.png",
+    "static/media/tableau.png": "/Portfolio/static/media/tableau.e2785306f33ad0ed14b5.png",
+    "static/media/sign.png": "/Portfolio/static/media/sign.21f1fd89760fe772e5d2.png",
+    "static/media/traf.png": "/Portfolio/static/media/traf.9fb96c84c5a742386162.png",
+    "static/media/usc.png": "/Portfolio/static/media/usc.e439e4ee5794eb29dcb7.png",
+    "static/media/airq.jpg": "/Portfolio/static/media/airq.239d192adfd71c308a9d.jpg",
+    "static/media/secu.png": "/Portfolio/static/media/secu.f84a05f1c9eb4de6abac.png",
+    "index.html": "/Portfolio/index.html",
+    "main.d89a2071.css.map": "/Portfolio/static/css/main.d89a2071.css.map",
+    "main.34413d13.js.map": "/Portfolio/static/js/main.34413d13.js.map"
   },
   "entrypoints": [
-    "static/css/main.8dd7a852.css",
-    "static/js/main.a11376a9.js"
+    "static/css/main.d89a2071.css",
+    "static/js/main.34413d13.js"
   ]
 }
