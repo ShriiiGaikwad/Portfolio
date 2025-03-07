@@ -1,18 +1,23 @@
 {
   "files": {
-    "main.css": "/SG_Portfolio/static/css/main.d57f0f84.css",
-    "main.js": "/SG_Portfolio/static/js/main.510c9008.js",
-    "static/media/MainPhoto.jpg": "/SG_Portfolio/static/media/MainPhoto.24d5dc552a0224212306.jpg",
-    "static/media/bg.jpg": "/SG_Portfolio/static/media/bg.a0a310c71df64b96808b.jpg",
-    "static/media/GirlScriptIndia.jpg": "/SG_Portfolio/static/media/GirlScriptIndia.919a47e2ccc1357d9fc9.jpg",
-    "static/media/GrowMonks.png": "/SG_Portfolio/static/media/GrowMonks.b5666182909c99d8605f.png",
-    "static/media/AlgoAnalytics.png": "/SG_Portfolio/static/media/AlgoAnalytics.d40cd7bdac8b85c92958.png",
-    "index.html": "/SG_Portfolio/index.html",
-    "main.d57f0f84.css.map": "/SG_Portfolio/static/css/main.d57f0f84.css.map",
-    "main.510c9008.js.map": "/SG_Portfolio/static/js/main.510c9008.js.map"
+    "main.css": "/Portfolio/static/css/main.d89a2071.css",
+    "main.js": "/Portfolio/static/js/main.34413d13.js",
+    "static/media/Sri.png": "/Portfolio/static/media/Sri.3e7f840ceb0323c46729.png",
+    "static/media/MainPhoto.jpg": "/Portfolio/static/media/MainPhoto.24d5dc552a0224212306.jpg",
+    "static/media/b.jpg": "/Portfolio/static/media/b.05e432b11340eb96dc81.jpg",
+    "static/media/athelete.png": "/Portfolio/static/media/athelete.6a8867559fbd234c7d05.png",
+    "static/media/tableau.png": "/Portfolio/static/media/tableau.e2785306f33ad0ed14b5.png",
+    "static/media/sign.png": "/Portfolio/static/media/sign.21f1fd89760fe772e5d2.png",
+    "static/media/traf.png": "/Portfolio/static/media/traf.9fb96c84c5a742386162.png",
+    "static/media/usc.png": "/Portfolio/static/media/usc.e439e4ee5794eb29dcb7.png",
+    "static/media/airq.jpg": "/Portfolio/static/media/airq.239d192adfd71c308a9d.jpg",
+    "static/media/secu.png": "/Portfolio/static/media/secu.f84a05f1c9eb4de6abac.png",
+    "index.html": "/Portfolio/index.html",
+    "main.d89a2071.css.map": "/Portfolio/static/css/main.d89a2071.css.map",
+    "main.34413d13.js.map": "/Portfolio/static/js/main.34413d13.js.map"
   },
   "entrypoints": [
-    "static/css/main.d57f0f84.css",
-    "static/js/main.510c9008.js"
+    "static/css/main.d89a2071.css",
+    "static/js/main.34413d13.js"
   ]
 }
